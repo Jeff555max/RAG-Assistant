@@ -1,4 +1,4 @@
-# RAG с ChromaDB и RAGAS - Учебный проект
+# RAG с ChromaDB и RAGAS 
 
 Минимальный проект для демонстрации работы RAG-системы с локальной векторной базой ChromaDB и оценкой качества через RAGAS.
 
@@ -71,5 +71,3 @@ rag_chromadb_ragas_demo/
 └── README.md          # Этот файл
 ```
 
-# RAG-Assistant
-# RAG-Assistant
