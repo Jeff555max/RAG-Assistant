@@ -72,3 +72,4 @@ rag_chromadb_ragas_demo/
 ```
 
 # RAG-Assistant
+# RAG-Assistant
